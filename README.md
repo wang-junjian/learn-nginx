@@ -1,2 +1,1 @@
-# learn-nginx
-Learn Nginx
+# Learn Nginx
